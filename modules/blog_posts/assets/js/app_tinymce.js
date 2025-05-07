@@ -1,0 +1,1 @@
+tinymce.init({selector: 'textarea#text_editor', license_key: 'gpl'});

@@ -1,0 +1,1 @@
+[{"module_name":"menus","record_name_singular":"menu","record_name_plural":"menus","identifier_column":"name"},{"module_name":"menu_items","record_name_singular":"menu item","record_name_plural":"menu items","identifier_column":"title"},{"relationship_type":"one to many"}]
